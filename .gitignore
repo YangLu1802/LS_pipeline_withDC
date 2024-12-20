@@ -1,0 +1,9 @@
+# system files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode
+
+# python cache files 
+__pycache__/
